@@ -1,0 +1,43 @@
+body {
+	background-color:#cccccc;
+	font-family: Courier; 
+	color: #0066CC;
+
+	text-align: center;
+	background-image: url("http://i.kinja-img.com/gawker-media/image/upload/s--83_FJy3n--/c_fit,fl_progressive,q_80,w_636/17orkssu6lzkajpg.jpg");
+	background-size: cover;
+	background-repeat:no-repeat; 
+}
+
+#good {
+	color: #CC0000
+}
+
+#worry {
+	color: #000066
+}
+
+#think {
+	color: #FF9900
+}
+#world {
+	color: #006699
+}
+button {
+    background-color: #6699FF;
+    color: #FFFFFF;
+    float: middle;
+    padding: 30px;
+    border-radius: 30px;
+    -moz-border-radius: 30px;
+    -webkit-border-radius: 30px;
+    font-family: Courier
+    
+
+}
+
+#Happify {
+	font-size: 25pt
+
+
+}
